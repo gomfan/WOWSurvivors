@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a621ded09c8570641a2b748dc33cdac3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Tiles/Interior/interiorObjects_38.asset
+  uploadId: 783764

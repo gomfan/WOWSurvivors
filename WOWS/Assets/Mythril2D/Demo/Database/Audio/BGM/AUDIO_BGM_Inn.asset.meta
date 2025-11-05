@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 293c7864ad12d284686d854595be0bd0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Audio/BGM/AUDIO_BGM_Inn.asset
+  uploadId: 783764

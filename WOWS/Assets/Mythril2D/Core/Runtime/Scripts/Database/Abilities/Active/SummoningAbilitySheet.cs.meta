@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 3c1af8a2e2691ab46bcf1d73d4907af1
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Database/Abilities/Active/SummoningAbilitySheet.cs
+  uploadId: 783764

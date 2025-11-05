@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bd6689985ba91874b80a485637029572
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Documentation/Mythril2D/Abilities.md
+  uploadId: 783764

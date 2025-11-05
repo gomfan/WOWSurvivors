@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2b419c27b15f2e94096bf941d273834a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Interactions/CraftInteraction.cs
+  uploadId: 783764

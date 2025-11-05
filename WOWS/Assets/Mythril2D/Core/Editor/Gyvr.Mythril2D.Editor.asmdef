@@ -1,0 +1,20 @@
+{
+    "name": "Gyvr.Mythril2D.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7627377d3cef49a781b650fa6ba8610f",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:61fd5600921cbf9498057034da0a8616"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

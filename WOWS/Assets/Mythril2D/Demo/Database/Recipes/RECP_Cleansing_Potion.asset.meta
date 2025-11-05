@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a61dfa624869b04e94b861156fc11dd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Recipes/RECP_Cleansing_Potion.asset
+  uploadId: 783764

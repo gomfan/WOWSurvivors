@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: e72bb73277b5e60489c848ad3d917981
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Attributes/InfinityFloatAttribute.cs
+  uploadId: 783764

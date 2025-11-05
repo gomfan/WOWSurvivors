@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aeb37336247d6f24cb54d3ed65fe6f4b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Audio/ISFX/AUDIO_ISFX_Interact.asset
+  uploadId: 783764

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 775c72581092f3b44be2de7aa48c94c0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Combat/Effects/Temporal/TemporalHealEffect.cs
+  uploadId: 783764

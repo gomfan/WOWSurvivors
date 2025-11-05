@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9bcd6a6ab594e6e4cae371ae5ab69820
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Audio/BGM/AUDIO_BGM_Plains.asset
+  uploadId: 783764

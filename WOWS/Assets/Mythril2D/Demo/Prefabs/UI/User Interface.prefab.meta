@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5052a03c5f5417f4b9c6974d272e5558
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/User Interface.prefab
+  uploadId: 783764

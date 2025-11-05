@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c8fc41fe2b3eeb84e8fdc2c088b356b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Database/Abilities/Active/ActiveAbilitySheet.cs
+  uploadId: 783764

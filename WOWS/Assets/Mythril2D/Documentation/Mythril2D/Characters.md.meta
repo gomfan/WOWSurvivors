@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6992e514ef777d049a7c0bebd19626d3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Documentation/Mythril2D/Characters.md
+  uploadId: 783764

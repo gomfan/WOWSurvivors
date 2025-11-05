@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d2b0f6d4ebcd9ce44a4dafe88555f702
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Entities/Characters/Monsters/0_Monster_Base.prefab
+  uploadId: 783764

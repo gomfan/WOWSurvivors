@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 1892777da2c455348988e8ed33a2c1c7
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Combat/PerTargetCooldown.cs
+  uploadId: 783764

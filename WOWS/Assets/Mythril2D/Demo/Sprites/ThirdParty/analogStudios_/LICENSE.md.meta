@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 123f3268c76b60440b75db69fc107033
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Sprites/ThirdParty/analogStudios_/LICENSE.md
+  uploadId: 783764

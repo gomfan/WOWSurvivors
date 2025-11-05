@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1850d3eb82dcf44e3a89cd09c7b839b6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Overlay/Item Details.prefab
+  uploadId: 783764

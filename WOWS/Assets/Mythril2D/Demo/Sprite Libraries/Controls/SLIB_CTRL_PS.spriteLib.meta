@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9bd31b184fdf1400a8cc78d2ce3a92d4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: db2778f6d440c47ddacff25997d7c062, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Sprite Libraries/Controls/SLIB_CTRL_PS.spriteLib
+  uploadId: 783764

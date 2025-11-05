@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 578443014e14e4a0b93ebc99cea543c6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Scenes/Maps/Abandoned_House.unity
+  uploadId: 783764

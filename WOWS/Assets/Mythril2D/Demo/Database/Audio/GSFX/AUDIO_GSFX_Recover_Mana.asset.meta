@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 752698e0cd5629d459910f7880af72f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Audio/GSFX/AUDIO_GSFX_Recover_Mana.asset
+  uploadId: 783764

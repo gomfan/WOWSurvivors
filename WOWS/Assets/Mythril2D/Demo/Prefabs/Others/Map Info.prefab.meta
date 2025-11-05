@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b4c42403588fad4b85a1ba855aae916
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Others/Map Info.prefab
+  uploadId: 783764

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6146992b9e8983478519771ce0e67e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Quests/The_Luminescent_Mystery/DIAL_The_Luminescent_Mystery_Completed.asset
+  uploadId: 783764

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 1de0ddbd9a0023649ace61f4b4d1b344
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Commands/AddOrRemoveMana.cs
+  uploadId: 783764

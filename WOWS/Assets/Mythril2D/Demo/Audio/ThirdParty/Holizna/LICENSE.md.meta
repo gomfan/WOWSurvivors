@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b8ad076f6d81f74ea30ffa6f6afb052
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Audio/ThirdParty/Holizna/LICENSE.md
+  uploadId: 783764

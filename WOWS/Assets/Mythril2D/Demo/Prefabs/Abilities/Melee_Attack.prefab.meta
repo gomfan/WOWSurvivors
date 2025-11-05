@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48345b037d801994ea42ee2100ea370f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Abilities/Melee_Attack.prefab
+  uploadId: 783764

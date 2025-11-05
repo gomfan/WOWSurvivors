@@ -1,0 +1,195 @@
+using TMPro;
+using UnityEngine;
+using UnityEngine.UI;
+
+namespace Gyvr.Mythril2D
+{
+    public class UIShop : AUIMenu
+    {
+        [Header("Audio")]
+        [SerializeField] private AudioClipResolver m_buySellAudio;
+
+        [Header("Dialogues")]
+        [SerializeField] private DialogueSequence m_cannotBuy = null;
+        [SerializeField] private DialogueSequence m_cannotSell = null;
+
+        [Header("References")]
+        [SerializeField] private UIInventoryBag m_inventoryBag = null;
+        [SerializeField] private GameObject m_shopEntryPrefab = null;
+        [SerializeField] private GameObject m_itemSlotsRoot = null;
+        [SerializeField] private TextMeshProUGUI m_money = null;
+
+        private UIShopEntry[] m_slots = null;
+        private Shop m_shop = null;
+
+        protected override void OnInit()
+        {
+            m_inventoryBag.Init();
+        }
+
+        protected override void OnMenuShown(params object[] args)
+        {
+            Debug.Assert(args.Length == 1 && args[0] is Shop, "Shop panel invoked with incorrect arguments");
+            m_shop = (Shop)args[0];
+            UpdateUI();
+        }
+
+        public override GameObject FindSomethingToSelect()
+        {
+            if (m_slots.Length > 0)
+            {
+                return m_slots[0].GetComponentInChildren<Button>().gameObject;
+            }
+
+            UINavigationCursorTarget bagNavigationTarget = m_inventoryBag.FindNavigationTarget();
+
+            if (bagNavigationTarget && bagNavigationTarget.gameObject.activeInHierarchy)
+            {
+                return bagNavigationTarget.gameObject;
+            }
+
+            return null;
+        }
+
+        // Message called by children using SendMessageUpward when the bag or equipment changed
+        private void UpdateUI(bool skipItemSlots = false)
+        {
+            m_inventoryBag.UpdateSlots();
+
+            if (!skipItemSlots)
+            {
+                ClearSlots();
+                FillSlots();
+                RewireNavigation();
+            }
+        }
+
+        private void Update()
+        {
+            UpdatePlayerMoneyDisplay();
+        }
+
+        private void UpdatePlayerMoneyDisplay()
+        {
+            int selectedItemPrice = 0;
+            ETransactionType transactionType = ETransactionType.Buy;
+
+            GameObject selection = GameManager.EventSystem.currentSelectedGameObject;
+            if (selection != null)
+            {
+                UIShopEntry shopItem = selection.GetComponent<UIShopEntry>();
+
+                if (shopItem && shopItem.GetItem())
+                {
+                    transactionType = ETransactionType.Buy;
+                    selectedItemPrice = m_shop.GetPrice(shopItem.GetItem(), transactionType);
+                }
+                else
+                {
+                    UIInventoryBagSlot bagItem = selection.GetComponent<UIInventoryBagSlot>();
+
+                    if (bagItem && bagItem.GetItem())
+                    {
+                        transactionType = ETransactionType.Sell;
+                        selectedItemPrice = m_shop.GetPrice(bagItem.GetItem(), transactionType);
+                    }
+                }
+
+                if (selectedItemPrice == 0)
+                {
+                    m_money.text = GameManager.InventorySystem.money.ToString();
+                }
+                else
+                {
+                    m_money.text = string.Format("{0}\n({1}{2})",
+                        GameManager.InventorySystem.money,
+                        transactionType == ETransactionType.Buy ? "-" : "+",
+                        selectedItemPrice);
+                }
+            }
+        }
+
+        private void FillSlots()
+        {
+            int itemCount = m_shop.items.Length;
+            m_slots = new UIShopEntry[itemCount];
+
+            for (int i = 0; i < itemCount; ++i)
+            {
+                Item item = m_shop.items[i];
+
+                GameObject itemSlot = Instantiate(m_shopEntryPrefab, m_itemSlotsRoot.transform);
+                UIShopEntry inventoryBagSlot = itemSlot.GetComponent<UIShopEntry>();
+
+                if (inventoryBagSlot)
+                {
+                    inventoryBagSlot.Initialize(item);
+                    m_slots[i] = inventoryBagSlot;
+                }
+            }
+        }
+
+        private void ClearSlots()
+        {
+            for (int i = 0; i < m_itemSlotsRoot.transform.childCount; ++i)
+            {
+                Transform child = m_itemSlotsRoot.transform.GetChild(i);
+                Destroy(child.gameObject);
+            }
+        }
+
+        private async void OnShopSlotClicked(Item item)
+        {
+            int itemPrice = m_shop.GetPrice(item, ETransactionType.Buy);
+
+            if (GameManager.InventorySystem.money >= itemPrice)
+            {
+                GameManager.InventorySystem.RemoveMoney(itemPrice);
+                GameManager.InventorySystem.AddToBag(item, 1, EItemTransferType.Trading);
+                GameManager.NotificationSystem.audioPlaybackRequested.Invoke(m_buySellAudio);
+                m_inventoryBag.SetCategory(item.category); // Navigate to the category of the purchased item for better UX
+                UpdateUI(true);
+            }
+            else
+            {
+                await GameManager.DialogueSystem.Main.PlayNow(DialogueUtils.CreateDialogueTree(m_cannotBuy, null, item.displayName));
+            }
+        }
+
+        private async void OnBagItemClicked(Item item)
+        {
+            if (item.sellable)
+            {
+                int sellingPrice = m_shop.GetPrice(item, ETransactionType.Sell);
+                GameManager.InventorySystem.RemoveFromBag(item, 1, EItemTransferType.Trading);
+                GameManager.InventorySystem.AddMoney(sellingPrice);
+                GameManager.NotificationSystem.audioPlaybackRequested.Invoke(m_buySellAudio);
+                UpdateUI();
+            }
+            else
+            {
+                await GameManager.DialogueSystem.Main.PlayNow(DialogueUtils.CreateDialogueTree(m_cannotSell, null, item.displayName));
+            }
+        }
+
+        private void RewireNavigation()
+        {
+            UIInventoryBagSlot firstBagSlot = m_inventoryBag.GetFirstSlot();
+
+            for (int i = 0; i < m_slots.Length; ++i)
+            {
+                UIShopEntry current = m_slots[i];
+                UIShopEntry previous = i > 0 ? m_slots[i - 1] : null;
+                UIShopEntry next = i < m_slots.Length - 1 ? m_slots[i + 1] : null;
+
+                current.button.navigation = new()
+                {
+                    mode = Navigation.Mode.Explicit,
+                    selectOnUp = previous?.button,
+                    selectOnDown = next?.button,
+                    selectOnRight = firstBagSlot?.button
+                };
+            }
+        }
+    }
+}

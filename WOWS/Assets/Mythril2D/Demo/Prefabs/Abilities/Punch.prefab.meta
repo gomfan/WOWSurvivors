@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 76f569ed198834552b32d5ba2da3617f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Abilities/Punch.prefab
+  uploadId: 783764

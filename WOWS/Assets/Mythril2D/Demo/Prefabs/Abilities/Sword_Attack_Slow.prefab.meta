@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d42b8303f962783458272f68979a64bb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Abilities/Sword_Attack_Slow.prefab
+  uploadId: 783764

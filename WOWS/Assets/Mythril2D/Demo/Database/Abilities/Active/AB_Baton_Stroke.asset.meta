@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 722f0c9823cf545ce8e44925ed60ab80
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Abilities/Active/AB_Baton_Stroke.asset
+  uploadId: 783764

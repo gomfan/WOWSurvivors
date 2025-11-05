@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 978b7252b1f8e9d468e348ae30b00255
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Menus/Craft/Recipe Entry.prefab
+  uploadId: 783764

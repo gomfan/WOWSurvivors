@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d2570470599929641a359c82a2423f9d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Menus/Character/Stat_With_Buttons.prefab
+  uploadId: 783764

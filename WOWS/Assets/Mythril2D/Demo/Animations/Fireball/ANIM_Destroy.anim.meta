@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5bcdf08bd8c0f354b8cfe305e0136406
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Animations/Fireball/ANIM_Destroy.anim
+  uploadId: 783764

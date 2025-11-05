@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6fc995ff93026c649b9b28a7214aca7c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Characters/NPCs/CS_Joe.asset
+  uploadId: 783764

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8201d83c769713b43808c98daf34f505
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Audio/ISFX/AUDIO_ISFX_Unequip.asset
+  uploadId: 783764

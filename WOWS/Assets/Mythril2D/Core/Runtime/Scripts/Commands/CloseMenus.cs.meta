@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4494819cc7e8ed045be0a2a20d00cf4a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Commands/CloseMenus.cs
+  uploadId: 783764

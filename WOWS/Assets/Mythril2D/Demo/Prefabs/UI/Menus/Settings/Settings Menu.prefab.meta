@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd91a2eeb11e0ef4ba28acb9f47cb963
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Menus/Settings/Settings Menu.prefab
+  uploadId: 783764

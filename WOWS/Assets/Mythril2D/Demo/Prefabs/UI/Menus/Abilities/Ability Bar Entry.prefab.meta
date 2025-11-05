@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 56d1f42cea2be96449590e66347b196e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Menus/Abilities/Ability Bar Entry.prefab
+  uploadId: 783764

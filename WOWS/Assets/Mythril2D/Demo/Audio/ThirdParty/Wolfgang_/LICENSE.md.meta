@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a734346d50c55cb4cbede7edef46943e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Audio/ThirdParty/Wolfgang_/LICENSE.md
+  uploadId: 783764

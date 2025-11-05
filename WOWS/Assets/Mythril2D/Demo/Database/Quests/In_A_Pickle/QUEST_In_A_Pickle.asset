@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edfe15e0f88eb4a43a3565753407a5b3, type: 3}
+  m_Name: QUEST_In_A_Pickle
+  m_EditorClassIdentifier: 
+  m_title: In A Pickle
+  m_description: A camper got his pickle stolen. Apparently, the recipe calls for
+    constant stirring, so he needs my help to retrieve it.
+  m_recommendedLevel: 1
+  m_requiredLevel: 1
+  m_repeatable: 0
+  m_tasks:
+  - {fileID: 11400000, guid: 26cb7497f9fc87644a5a314afc557a13, type: 2}
+  - {fileID: 11400000, guid: 2fe05911407b9804690afea7c2d87d96, type: 2}
+  - {fileID: 11400000, guid: 798af0642018b43449b34d0afa69d48c, type: 2}
+  m_toExecuteOnQuestCompletion:
+    rid: 2152590067567689750
+  m_offeredBy: {fileID: 11400000, guid: 6fc995ff93026c649b9b28a7214aca7c, type: 2}
+  m_reportTo: {fileID: 11400000, guid: 6fc995ff93026c649b9b28a7214aca7c, type: 2}
+  m_questOfferDialogue: {fileID: 11400000, guid: 4b34dbe0e3d4cc247955a6a4c3736a9b, type: 2}
+  m_questHintDialogue: {fileID: 11400000, guid: 8ca28c73a2b96534d855cd6581807b3f, type: 2}
+  m_questCompletedDialogue: {fileID: 11400000, guid: 990723b7c4bf0724ea9810d6459fe732, type: 2}
+  m_questHintDialogueOverrides:
+    m_keys:
+    - {fileID: 11400000, guid: 798af0642018b43449b34d0afa69d48c, type: 2}
+    m_values:
+    - {fileID: 11400000, guid: 2a1712da73256c64eafbce71a350273f, type: 2}
+  references:
+    version: 2
+    RefIds:
+    - rid: 837939331739943253
+      type: {class: AddOrRemoveItem, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_action: 0
+        m_item: {fileID: 11400000, guid: f017df8ddef75674f93699f67b3a8aff, type: 2}
+        m_quantity: 1
+    - rid: 2152590067567689750
+      type: {class: ExecuteCommandList, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_executionMode: 0
+        m_disabledActions: 0
+        m_commands:
+        - rid: 2152590067567689751
+        - rid: 2152590067567689752
+        - rid: 837939331739943253
+    - rid: 2152590067567689751
+      type: {class: AddExperience, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_experience: 100
+    - rid: 2152590067567689752
+      type: {class: AddOrRemoveMoney, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_action: 0
+        m_amount: 100

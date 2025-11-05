@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 85b31ccd9b86d304b8469c87a120075a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Documentation/Mythril2D/Heroes.md
+  uploadId: 783764

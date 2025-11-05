@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 55a3c12635beb934597d24a3108087d1
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Combat/Abilities/Active/ActiveAbilityBase.cs
+  uploadId: 783764

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ce79a8d5b503b3247a1c81e20490fd42
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Commands/RespawnPlayer.cs
+  uploadId: 783764

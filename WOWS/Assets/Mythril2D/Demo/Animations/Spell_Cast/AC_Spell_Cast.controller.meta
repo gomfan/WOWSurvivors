@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0563d4e8689c9c14fb62befd13894a17
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Animations/Spell_Cast/AC_Spell_Cast.controller
+  uploadId: 783764

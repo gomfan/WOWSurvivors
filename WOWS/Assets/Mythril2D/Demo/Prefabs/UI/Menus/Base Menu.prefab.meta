@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ee85c269e6f86154493a270ec83506e2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Menus/Base Menu.prefab
+  uploadId: 783764

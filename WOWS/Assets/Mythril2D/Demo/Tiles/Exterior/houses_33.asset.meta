@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 584a38cb38da7f04fb69166e1330497d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Tiles/Exterior/houses_33.asset
+  uploadId: 783764

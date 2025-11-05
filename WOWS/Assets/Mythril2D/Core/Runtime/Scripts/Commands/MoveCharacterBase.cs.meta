@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: efb24b6db5b7fe54c8d6dc01f6105eac
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Commands/MoveCharacterBase.cs
+  uploadId: 783764

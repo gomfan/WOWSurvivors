@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27171d8c214514cbe8657aae5e549ab0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Animations/UI/Dialogue/Dialogue_Message_Box/ANIM_Dialogue_Message_Box_Transition.anim
+  uploadId: 783764

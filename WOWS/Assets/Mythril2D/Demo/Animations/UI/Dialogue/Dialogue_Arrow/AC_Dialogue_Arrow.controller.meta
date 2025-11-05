@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef6d19743e23b84419f2f60d1e6aed89
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Animations/UI/Dialogue/Dialogue_Arrow/AC_Dialogue_Arrow.controller
+  uploadId: 783764

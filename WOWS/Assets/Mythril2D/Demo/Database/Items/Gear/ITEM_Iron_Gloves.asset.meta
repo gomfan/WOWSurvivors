@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 215eb18885fedad4580922bd00f12608
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Items/Gear/ITEM_Iron_Gloves.asset
+  uploadId: 783764

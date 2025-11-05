@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7f85b3713e97386459a4fc0f348b0660
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Scenes/Maps/Plains.unity
+  uploadId: 783764

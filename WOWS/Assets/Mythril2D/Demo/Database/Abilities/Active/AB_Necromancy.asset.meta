@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31aaadb36eb0a8f42aa71f3bce183eba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Abilities/Active/AB_Necromancy.asset
+  uploadId: 783764

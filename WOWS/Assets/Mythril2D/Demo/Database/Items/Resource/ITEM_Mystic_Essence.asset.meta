@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd18047735b2981489e5e4c84dcbb3c7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Items/Resource/ITEM_Mystic_Essence.asset
+  uploadId: 783764

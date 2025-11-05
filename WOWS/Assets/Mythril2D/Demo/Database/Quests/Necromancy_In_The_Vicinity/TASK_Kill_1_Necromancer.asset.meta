@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5299d18269ed94241b77cb5c8fbb427d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Quests/Necromancy_In_The_Vicinity/TASK_Kill_1_Necromancer.asset
+  uploadId: 783764

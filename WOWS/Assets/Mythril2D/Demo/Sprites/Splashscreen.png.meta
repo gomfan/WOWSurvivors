@@ -1,0 +1,1255 @@
+fileFormatVersion: 2
+guid: 9b545978356f7e441b6a0359acb16dc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6919835564531864334
+    second: made-with-m2d_0
+  - first:
+      213: -8360411665144523529
+    second: made-with-m2d_1
+  - first:
+      213: 6638349202858566379
+    second: made-with-m2d_2
+  - first:
+      213: -8047254715548148713
+    second: made-with-m2d_3
+  - first:
+      213: -6075454016143623393
+    second: made-with-m2d_4
+  - first:
+      213: -3225528919844202394
+    second: made-with-m2d_5
+  - first:
+      213: 3683155666185951406
+    second: made-with-m2d_6
+  - first:
+      213: -8490914267483034287
+    second: made-with-m2d_7
+  - first:
+      213: 3799845611681296952
+    second: made-with-m2d_8
+  - first:
+      213: 1889018658703318798
+    second: made-with-m2d_9
+  - first:
+      213: -1148283133341332035
+    second: made-with-m2d_10
+  - first:
+      213: -5141465038084487346
+    second: made-with-m2d_11
+  - first:
+      213: -3063754614979228940
+    second: made-with-m2d_12
+  - first:
+      213: -6042946666154250822
+    second: made-with-m2d_13
+  - first:
+      213: 3838875961818304035
+    second: made-with-m2d_14
+  - first:
+      213: -3953189721163187734
+    second: made-with-m2d_15
+  - first:
+      213: -4528270207401408538
+    second: made-with-m2d_16
+  - first:
+      213: -899966949648066729
+    second: made-with-m2d_17
+  - first:
+      213: 499951485974317554
+    second: made-with-m2d_18
+  - first:
+      213: 7092330038003745847
+    second: made-with-m2d_19
+  - first:
+      213: 8734650548672819019
+    second: made-with-m2d_20
+  - first:
+      213: -4746552012779497396
+    second: made-with-m2d_21
+  - first:
+      213: 3673627958140756652
+    second: made-with-m2d_22
+  - first:
+      213: 7066037507215910219
+    second: made-with-m2d_23
+  - first:
+      213: -8285719158785891918
+    second: made-with-m2d_24
+  - first:
+      213: 4387742928660866674
+    second: made-with-m2d_25
+  - first:
+      213: -906674052010638138
+    second: made-with-m2d_26
+  - first:
+      213: 7471830243269704157
+    second: made-with-m2d_27
+  - first:
+      213: 3079356936796630635
+    second: made-with-m2d_28
+  - first:
+      213: 7558886971615083047
+    second: made-with-m2d_29
+  - first:
+      213: 134530830598725625
+    second: made-with-m2d_30
+  - first:
+      213: -547593301897448183
+    second: made-with-m2d_31
+  - first:
+      213: -3089784671076276602
+    second: made-with-m2d_32
+  - first:
+      213: -288802191690446824
+    second: made-with-m2d_33
+  - first:
+      213: 8759619846963461098
+    second: made-with-m2d_34
+  - first:
+      213: 4911014713444847204
+    second: made-with-m2d_35
+  - first:
+      213: 8620441662231030714
+    second: made-with-m2d_36
+  - first:
+      213: -3813471846740236780
+    second: made-with-m2d_37
+  - first:
+      213: 7574646983712985355
+    second: made-with-m2d_38
+  - first:
+      213: -5718209843585576347
+    second: made-with-m2d_39
+  - first:
+      213: 3176028094542913312
+    second: made-with-m2d_40
+  - first:
+      213: -7018271779483712623
+    second: made-with-m2d_41
+  - first:
+      213: -6473603959480458117
+    second: made-with-m2d_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: made-with-m2d_0
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 176
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fca6f7873ec7ff90800000000000000
+      internalID: -6919835564531864334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 108
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4570bc2e9d9fb80800000000000000
+      internalID: -8360411665144523529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2e163bd67202c50800000000000000
+      internalID: 6638349202858566379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c5aaee878625090800000000000000
+      internalID: -8047254715548148713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 108
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bf98ee2c6afaba0800000000000000
+      internalID: -6075454016143623393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 108
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668dfe7798e9c33d0800000000000000
+      internalID: -3225528919844202394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea81b7f60923d1330800000000000000
+      internalID: 3683155666185951406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 108
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15da064e5763a2a80800000000000000
+      internalID: -8490914267483034287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832379d8373cbb430800000000000000
+      internalID: 3799845611681296952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 108
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f981e2674273a10800000000000000
+      internalID: 1889018658703318798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 103
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd0e97f29a7010f0800000000000000
+      internalID: -1148283133341332035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 108
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4742ebd9c8d5a8b0800000000000000
+      internalID: -5141465038084487346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa033ff86b5b75d0800000000000000
+      internalID: -3063754614979228940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 108
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdae372604232ca0800000000000000
+      internalID: -6042946666154250822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 108
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e47f8195d664530800000000000000
+      internalID: 3838875961818304035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 108
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9b75cb4e27329c0800000000000000
+      internalID: -3953189721163187734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_16
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7cad8fc3a5821c0800000000000000
+      internalID: -4528270207401408538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75792a8d3dca283f0800000000000000
+      internalID: -899966949648066729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f98d664a3f20f600800000000000000
+      internalID: 499951485974317554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734cb01c7940d6260800000000000000
+      internalID: 7092330038003745847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_20
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f60d65566b73970800000000000000
+      internalID: 8734650548672819019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_21
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 108
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48dc5ab71cd02eb0800000000000000
+      internalID: -4746552012779497396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 108
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca26ce90a295bf230800000000000000
+      internalID: 3673627958140756652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_23
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 108
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45e033ecab9f0260800000000000000
+      internalID: 7066037507215910219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 108
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b12bef1356330d80800000000000000
+      internalID: -8285719158785891918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 108
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276209442f464ec30800000000000000
+      internalID: 4387742928660866674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_26
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c487d2e0c8da63f0800000000000000
+      internalID: -906674052010638138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_27
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd97c10d40641b760800000000000000
+      internalID: 7471830243269704157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_28
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ee562a1d21cba20800000000000000
+      internalID: 3079356936796630635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72af178e6af86e860800000000000000
+      internalID: 7558886971615083047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_30
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 108
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffdc21e313fdd100800000000000000
+      internalID: 134530830598725625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_31
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 103
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905f40f0bce8668f0800000000000000
+      internalID: -547593301897448183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_32
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 108
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6862d084631ee15d0800000000000000
+      internalID: -3089784671076276602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 108
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818cfe1dfe7fdfbf0800000000000000
+      internalID: -288802191690446824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_34
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 108
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebf7b127db609970800000000000000
+      internalID: 8759619846963461098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_35
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ec899bcdd672440800000000000000
+      internalID: 4911014713444847204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_36
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 108
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb224cc406f1a770800000000000000
+      internalID: 8620441662231030714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_37
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 108
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416681e5f83d31bc0800000000000000
+      internalID: -3813471846740236780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_38
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01523bac4d8e1960800000000000000
+      internalID: 7574646983712985355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_39
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 108
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56290f19176d4a0b0800000000000000
+      internalID: -5718209843585576347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_40
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 108
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f14e389b4831c20800000000000000
+      internalID: 3176028094542913312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_41
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 108
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19389be30071a9e90800000000000000
+      internalID: -7018271779483712623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: made-with-m2d_42
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 103
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74ea9a5f732926a0800000000000000
+      internalID: -6473603959480458117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      made-with-m2d_0: -6919835564531864334
+      made-with-m2d_1: -8360411665144523529
+      made-with-m2d_10: -1148283133341332035
+      made-with-m2d_11: -5141465038084487346
+      made-with-m2d_12: -3063754614979228940
+      made-with-m2d_13: -6042946666154250822
+      made-with-m2d_14: 3838875961818304035
+      made-with-m2d_15: -3953189721163187734
+      made-with-m2d_16: -4528270207401408538
+      made-with-m2d_17: -899966949648066729
+      made-with-m2d_18: 499951485974317554
+      made-with-m2d_19: 7092330038003745847
+      made-with-m2d_2: 6638349202858566379
+      made-with-m2d_20: 8734650548672819019
+      made-with-m2d_21: -4746552012779497396
+      made-with-m2d_22: 3673627958140756652
+      made-with-m2d_23: 7066037507215910219
+      made-with-m2d_24: -8285719158785891918
+      made-with-m2d_25: 4387742928660866674
+      made-with-m2d_26: -906674052010638138
+      made-with-m2d_27: 7471830243269704157
+      made-with-m2d_28: 3079356936796630635
+      made-with-m2d_29: 7558886971615083047
+      made-with-m2d_3: -8047254715548148713
+      made-with-m2d_30: 134530830598725625
+      made-with-m2d_31: -547593301897448183
+      made-with-m2d_32: -3089784671076276602
+      made-with-m2d_33: -288802191690446824
+      made-with-m2d_34: 8759619846963461098
+      made-with-m2d_35: 4911014713444847204
+      made-with-m2d_36: 8620441662231030714
+      made-with-m2d_37: -3813471846740236780
+      made-with-m2d_38: 7574646983712985355
+      made-with-m2d_39: -5718209843585576347
+      made-with-m2d_4: -6075454016143623393
+      made-with-m2d_40: 3176028094542913312
+      made-with-m2d_41: -7018271779483712623
+      made-with-m2d_42: -6473603959480458117
+      made-with-m2d_5: -3225528919844202394
+      made-with-m2d_6: 3683155666185951406
+      made-with-m2d_7: -8490914267483034287
+      made-with-m2d_8: 3799845611681296952
+      made-with-m2d_9: 1889018658703318798
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Sprites/Splashscreen.png
+  uploadId: 783764

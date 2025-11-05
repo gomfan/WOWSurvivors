@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57974345902472844937e8159098f527
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/ThirdParty/azixMcAze.SerializableDictionary/package.json
+  uploadId: 783764

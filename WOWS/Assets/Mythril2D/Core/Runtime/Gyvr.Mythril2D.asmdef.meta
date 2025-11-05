@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7627377D3CEF49A781B650FA6BA8610F
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Gyvr.Mythril2D.asmdef
+  uploadId: 783764

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec69a940f9f59c6458334d77de835e54
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Abilities/Active/AB_Berserk.asset
+  uploadId: 783764

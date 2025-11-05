@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8f91d1fb50951643ae0721b3f46eaed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/REGISTRY_Default.asset
+  uploadId: 783764

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 203b06887f2e2ab4a8e01d2c25658766
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Animation/Strategies/PolydirectionalAnimationStrategy.cs
+  uploadId: 783764

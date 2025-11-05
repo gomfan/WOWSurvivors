@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d0723d5eb0ddacf47ba4ee85e0833422
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Abilities/Active/AB_Gloubi_boulga.asset
+  uploadId: 783764

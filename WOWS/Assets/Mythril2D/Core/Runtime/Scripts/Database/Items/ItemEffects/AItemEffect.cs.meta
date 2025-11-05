@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f65d510813307e744a70e1fab8339b8c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Database/Items/ItemEffects/AItemEffect.cs
+  uploadId: 783764

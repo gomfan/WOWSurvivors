@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b9aff18cf205896438a59e1ab7d29ff8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Items/Key/ITEM_Tax_Payment.asset
+  uploadId: 783764

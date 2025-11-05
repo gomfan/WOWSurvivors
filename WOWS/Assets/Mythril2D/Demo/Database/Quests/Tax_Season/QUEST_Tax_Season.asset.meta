@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 031d7571e9474db44969603e81321881
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Quests/Tax_Season/QUEST_Tax_Season.asset
+  uploadId: 783764

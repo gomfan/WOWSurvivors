@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5850ed75dc66cd943889e6f49366edb8
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Documentation/Mythril2D/Scenes.md
+  uploadId: 783764

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0f0c683490b489d41af07c58df6c65a1
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Save/PersistableReference.cs
+  uploadId: 783764

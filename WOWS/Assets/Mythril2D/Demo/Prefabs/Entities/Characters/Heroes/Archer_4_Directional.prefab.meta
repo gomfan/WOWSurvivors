@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3e7351f3bc8e9384189d1ab10fd70549
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Entities/Characters/Heroes/Archer_4_Directional.prefab
+  uploadId: 783764

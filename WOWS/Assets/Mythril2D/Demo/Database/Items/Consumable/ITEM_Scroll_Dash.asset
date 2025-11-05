@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0289099dc5b3f49b3b9ca3cf8f6b7baa, type: 3}
+  m_Name: ITEM_Scroll_Dash
+  m_EditorClassIdentifier: 
+  m_category: 0
+  m_icon: {fileID: -654719578, guid: c94cf32db75ba2e429c4186822410ca0, type: 3}
+  m_displayName: 'Scroll: Dash'
+  m_description: Acquire the power of Hermes and move faster with this dash ability
+  m_price: 500
+  m_onUse:
+    rid: 837939250944016519
+  references:
+    version: 2
+    RefIds:
+    - rid: 837939250944016519
+      type: {class: ItemAddAbilityEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_consumeAfterUse: 1
+        m_useAudio: {fileID: 11400000, guid: 6169e1eb2a9a87640a3b43f31e3ab758, type: 2}
+        m_ability: {fileID: 11400000, guid: b742ac521f6a560498daa197a5483671, type: 2}

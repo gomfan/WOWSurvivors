@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 49b49c76ee64f6b41bf28ef951cb0e50
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/ThirdParty/MackySoft.SerializeReferenceExtensions/Runtime/MackySoft.SerializeReferenceExtensions.asmdef
+  uploadId: 783764

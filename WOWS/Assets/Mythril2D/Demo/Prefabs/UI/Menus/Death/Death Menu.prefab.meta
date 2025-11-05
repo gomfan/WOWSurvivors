@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e4a333f9fe5eb0341a6d809cf56167b0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Menus/Death/Death Menu.prefab
+  uploadId: 783764

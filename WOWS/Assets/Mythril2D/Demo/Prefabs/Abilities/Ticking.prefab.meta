@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a83e1329baf9824ab339d245ef4d2b7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Abilities/Ticking.prefab
+  uploadId: 783764

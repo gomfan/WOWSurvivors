@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52ad798bc7dde924387a0f08a7844868, type: 3}
+  m_Name: AB_Sticky_Shot
+  m_EditorClassIdentifier: 
+  m_icon: {fileID: -1266726143, guid: 75f26bff82aa90b4e8ac81457a1224bf, type: 3}
+  m_displayName: Sticky Shot
+  m_description: A shot that does magical damage and roots the target
+  m_prefab: {fileID: 7041185181918867506, guid: 17c8dfd7408d5ad4f9755371ded29e70, type: 3}
+  m_orientationMode: 1
+  m_abilityStateManagementMode: 0
+  m_effects:
+  - rid: 837939378545491968
+  - rid: 837939378545491969
+  m_fireAudio: {fileID: 11400000, guid: 50ff06b1f0e51274f86301e4d7cff4b9, type: 2}
+  m_manaCost: 1
+  m_cooldown: 5
+  m_canInterupt: 1
+  m_disabledActionsWhileCasting: -1
+  m_updateLookAtDirectionOnFire: 1
+  m_autoAppliedEffectsToCasterOnFire: []
+  m_projectile: {fileID: 6484589181426935801, guid: ac62669415342bb4cbe68893530d4b02, type: 3}
+  m_projectileSpeed: 15
+  m_projectileCount: 1
+  m_spread: 0
+  m_explosionRadius: 0
+  m_explosionApplyBaseEffects: 1
+  m_explosionBaseEffectsIgnorePrimaryTarget: 1
+  m_explosionAdditionalEffectsIgnorePrimaryTarget: 0
+  m_explosionAdditionalEffects: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 837939378545491968
+      type: {class: ImmediateDamageEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 4
+          interruptionPolicy: 0
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_damageDescriptor:
+          damageType: 2
+          scalingFactor: 1
+          flatDamages: 0
+          criticalBehavior: 0
+          missBehavior: 0
+          ignoreDefense: 0
+          silent: 0
+    - rid: 837939378545491969
+      type: {class: TemporalControlEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 4
+          interruptionPolicy: 0
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 2
+          stackableEffectId: sticky_shot_root
+          stackBehavior: 1
+          remainingDuration: 0
+        m_controlData:
+          controlType: 2
+          unlockKey: 

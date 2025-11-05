@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 9e2c52ccb61617a4da7538ff45525112
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Combat/EffectDispatcher.cs
+  uploadId: 783764

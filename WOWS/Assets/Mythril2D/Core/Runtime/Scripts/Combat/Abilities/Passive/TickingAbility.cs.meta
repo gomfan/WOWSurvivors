@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d6422c0313fe6204eb1b09d1b63b40ab
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Combat/Abilities/Passive/TickingAbility.cs
+  uploadId: 783764

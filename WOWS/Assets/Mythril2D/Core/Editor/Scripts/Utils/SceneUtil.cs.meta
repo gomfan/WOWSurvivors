@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c6e7485c9b74f3744b8fcbd9d73d0209
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Editor/Scripts/Utils/SceneUtil.cs
+  uploadId: 783764

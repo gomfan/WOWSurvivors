@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0fc5fd54ab6bce441b24a22193afb8e2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Database/Abilities/AbilitySheet.cs
+  uploadId: 783764

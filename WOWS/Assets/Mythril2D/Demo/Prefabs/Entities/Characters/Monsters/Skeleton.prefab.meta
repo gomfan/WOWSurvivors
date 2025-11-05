@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd93fdeb631d5c443b5a285840c2625e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Entities/Characters/Monsters/Skeleton.prefab
+  uploadId: 783764

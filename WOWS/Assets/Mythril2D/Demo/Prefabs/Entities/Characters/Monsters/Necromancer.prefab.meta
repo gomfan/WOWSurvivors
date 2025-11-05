@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2dfe91060b0726d458dd79c2f27cdeb1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Entities/Characters/Monsters/Necromancer.prefab
+  uploadId: 783764

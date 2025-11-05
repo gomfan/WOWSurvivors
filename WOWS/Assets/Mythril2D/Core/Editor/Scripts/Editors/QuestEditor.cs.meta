@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ec0b49b52f8bb4a45b541c1605c1123f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Editor/Scripts/Editors/QuestEditor.cs
+  uploadId: 783764

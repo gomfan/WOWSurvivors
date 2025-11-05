@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9b085337d4b4244b1207e969bd79d1, type: 3}
+  m_Name: AB_Corrosion
+  m_EditorClassIdentifier: 
+  m_icon: {fileID: -1654951035, guid: 75f26bff82aa90b4e8ac81457a1224bf, type: 3}
+  m_displayName: Corrosion
+  m_description: Burns anything on contact
+  m_prefab: {fileID: 5434529868547144446, guid: 76944e717ca96af4fa1ab458037d4425, type: 3}
+  m_orientationMode: 0
+  m_abilityStateManagementMode: 1
+  m_effects:
+  - rid: 837939155348226165
+  - rid: 837939155348226198
+  m_perTargetCooldown: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 837939155348226165
+      type: {class: ImmediateDamageEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 4
+          interruptionPolicy: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_damageDescriptor:
+          damageType: 2
+          scalingFactor: 1
+          flatDamages: 0
+          criticalBehavior: 0
+          missBehavior: 0
+          ignoreDefense: 0
+          silent: 0
+    - rid: 837939155348226198
+      type: {class: TemporalDamageEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 4
+          interruptionPolicy: 0
+          failureRate: 0.8
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 13
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_damageData:
+          damage:
+            damageType: 2
+            scalingFactor: 0
+            flatDamages: 1
+            criticalBehavior: 2
+            missBehavior: 2
+            ignoreDefense: 1
+            silent: 1
+          interval: 4
+          delayFirstTick: 1
+          timer: 0
+          damageOutput:
+            source:
+              rid: -2
+            type: 0
+            damage: 0
+            flags: 0
+            missBehavior: 0
+            ignoreDefense: 0
+            silent: 0

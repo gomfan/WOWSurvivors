@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f28ccde6134212740b3959e73b75ce33
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Sprites/ThirdParty/PaperHatLizard/LICENSE.md
+  uploadId: 783764

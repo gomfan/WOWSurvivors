@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7be9c8903e72d8b4bbbe15ab4b362011
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Dialogues/Shop/DIAL_General_Shop_Offer.asset
+  uploadId: 783764

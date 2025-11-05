@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b7fc5ba59ecf28b4f828f710b65c958e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Physics/CollisionDispatcher.cs
+  uploadId: 783764

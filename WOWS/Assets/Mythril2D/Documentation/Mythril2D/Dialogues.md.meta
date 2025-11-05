@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a567adc8822d0b4f816a9099fe506f2
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Documentation/Mythril2D/Dialogues.md
+  uploadId: 783764

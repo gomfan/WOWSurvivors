@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c79ae267a7ab2a2428d950b349b5937e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Items/Resource/ITEM_Reviving_Orb.asset
+  uploadId: 783764

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b618fafd7452fc34e83993c45e038f1d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Menus/Abilities/Ability List Entry.prefab
+  uploadId: 783764

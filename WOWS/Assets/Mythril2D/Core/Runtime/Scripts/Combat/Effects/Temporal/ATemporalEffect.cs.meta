@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: dcba2e857ea1e0045ad9530d38e0c944
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Combat/Effects/Temporal/ATemporalEffect.cs
+  uploadId: 783764

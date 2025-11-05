@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a2d0ce3746da884ba345a62a9dd044c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Menus/Inventory/Stat.prefab
+  uploadId: 783764

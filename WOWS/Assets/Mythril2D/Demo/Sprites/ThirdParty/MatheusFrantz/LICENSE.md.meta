@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 11123055f4ed8754da3f39712223913d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Sprites/ThirdParty/MatheusFrantz/LICENSE.md
+  uploadId: 783764

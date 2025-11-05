@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8f36b9b25e67d3847a89c2093ee985ea
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Scenes/Maps/Eldham_Village.unity
+  uploadId: 783764

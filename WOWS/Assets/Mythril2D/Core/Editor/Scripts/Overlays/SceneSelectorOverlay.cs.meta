@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0df66017e4f3c2c48b07837de44406e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Editor/Scripts/Overlays/SceneSelectorOverlay.cs
+  uploadId: 783764

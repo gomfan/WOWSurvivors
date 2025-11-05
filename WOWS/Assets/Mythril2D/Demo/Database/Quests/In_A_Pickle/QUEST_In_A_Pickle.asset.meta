@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a65458d7298bacd4b8ca683b08d9376c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Quests/In_A_Pickle/QUEST_In_A_Pickle.asset
+  uploadId: 783764

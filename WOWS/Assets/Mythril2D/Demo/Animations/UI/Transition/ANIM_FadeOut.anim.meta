@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3baa0ed3550e4e8186b31b250194731
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Animations/UI/Transition/ANIM_FadeOut.anim
+  uploadId: 783764

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07a3bfda2dc4dd94690caa30754d4c8a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Characters/Monsters/CS_Necromancer.asset
+  uploadId: 783764

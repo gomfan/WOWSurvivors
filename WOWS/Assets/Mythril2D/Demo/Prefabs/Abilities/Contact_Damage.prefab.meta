@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 76944e717ca96af4fa1ab458037d4425
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Abilities/Contact_Damage.prefab
+  uploadId: 783764

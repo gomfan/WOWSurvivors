@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6cb5509a131c1ee4c897427858476b52
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Others/Teleporter.prefab
+  uploadId: 783764

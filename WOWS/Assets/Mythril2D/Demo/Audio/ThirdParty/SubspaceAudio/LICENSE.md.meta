@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 69f17ebb82c7646428db86586778400a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Audio/ThirdParty/SubspaceAudio/LICENSE.md
+  uploadId: 783764

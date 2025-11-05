@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 798af0642018b43449b34d0afa69d48c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Quests/In_A_Pickle/TASK_Kill_Bandits.asset
+  uploadId: 783764

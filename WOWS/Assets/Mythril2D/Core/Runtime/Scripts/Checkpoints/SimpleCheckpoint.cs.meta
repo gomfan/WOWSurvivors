@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d1baec34e73473e40aea7b372d93f3aa
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Checkpoints/SimpleCheckpoint.cs
+  uploadId: 783764

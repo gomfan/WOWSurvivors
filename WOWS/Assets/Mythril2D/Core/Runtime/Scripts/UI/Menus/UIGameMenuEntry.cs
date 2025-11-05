@@ -1,0 +1,93 @@
+﻿using TMPro;
+using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+
+namespace Gyvr.Mythril2D
+{
+    public class UIGameMenuEntry : MonoBehaviour, ISelectHandler, IDeselectHandler
+    {
+        public enum EGameMenuAction
+        {
+            None,
+            OpenInventory,
+            OpenJournal,
+            OpenSaveMenu,
+            OpenAbilities,
+            OpenCharacter,
+            OpenCraft,
+            OpenSettings,
+            GoToMainMenu
+        }
+
+        [Header("Settings")]
+        [SerializeField] private EGameMenuAction m_action = EGameMenuAction.None;
+
+        [Header("References")]
+        [SerializeField] private Button m_button = null;
+        [SerializeField] private TextMeshProUGUI m_text = null;
+
+        private void Awake()
+        {
+            m_button.onClick.AddListener(OnButtonClicked);
+            m_text.enabled = false;
+
+            // Disable this menu entry if no "On The Go" CraftingStation has been provided
+            if (m_action == EGameMenuAction.OpenCraft && GameManager.Config.onTheGoCraftingStation == null)
+            {
+                gameObject.SetActive(false);
+            }
+        }
+
+        public void OnDeselect(BaseEventData eventData)
+        {
+            m_text.enabled = false;
+        }
+
+        public void OnSelect(BaseEventData eventData)
+        {
+            m_text.enabled = true;
+            SendMessageUpwards("OnGameMenuEntrySelected", m_button);
+        }
+
+        private void OnButtonClicked()
+        {
+            switch (m_action)
+            {
+                case EGameMenuAction.OpenJournal:
+                    GameManager.NotificationSystem.journalRequested.Invoke(null);
+                    break;
+
+                case EGameMenuAction.OpenCharacter:
+                    GameManager.NotificationSystem.statsRequested.Invoke(null);
+                    break;
+
+                case EGameMenuAction.OpenCraft:
+                    Debug.Assert(GameManager.Config.onTheGoCraftingStation != null, "Cannot open the craft menu with a default recipe book defined in the game config!");
+                    GameManager.NotificationSystem.craftRequested.Invoke(GameManager.Config.onTheGoCraftingStation, null);
+                    break;
+
+                case EGameMenuAction.OpenSaveMenu:
+                    GameManager.NotificationSystem.saveMenuRequested.Invoke(null);
+                    break;
+
+                case EGameMenuAction.OpenInventory:
+                    GameManager.NotificationSystem.inventoryRequested.Invoke(null);
+                    break;
+
+                case EGameMenuAction.OpenAbilities:
+                    GameManager.NotificationSystem.spellBookRequested.Invoke(null);
+                    break;
+
+                case EGameMenuAction.OpenSettings:
+                    GameManager.NotificationSystem.settingsRequested.Invoke(null);
+                    break;
+
+                case EGameMenuAction.GoToMainMenu:
+                    SceneManager.LoadScene(GameManager.Config.mainMenuSceneName);
+                    break;
+            }
+        }
+    }
+}

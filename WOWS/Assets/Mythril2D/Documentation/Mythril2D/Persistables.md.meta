@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e66b8adad6878524a87ff67d4a016177
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Documentation/Mythril2D/Persistables.md
+  uploadId: 783764

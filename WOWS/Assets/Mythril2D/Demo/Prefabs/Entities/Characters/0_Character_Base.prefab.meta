@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35b65aa833459fb48a5da6b625c71835
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Entities/Characters/0_Character_Base.prefab
+  uploadId: 783764

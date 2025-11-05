@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7cdda1ebc7da64a42995697817571146
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Audio/GSFX/AUDIO_GSFX_Heal.asset
+  uploadId: 783764

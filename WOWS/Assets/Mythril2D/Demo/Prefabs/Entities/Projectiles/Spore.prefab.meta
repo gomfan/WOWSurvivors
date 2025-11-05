@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c2ae824286e2af4ea638c8d9c5a18e6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Entities/Projectiles/Spore.prefab
+  uploadId: 783764

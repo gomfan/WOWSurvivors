@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f875e40d0b85f884e8baecb6a751bcf1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Characters/Monsters/CS_Bandit.asset
+  uploadId: 783764

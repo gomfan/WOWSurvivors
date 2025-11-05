@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48cac493a5379a54083ba0a964a5e668
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Quests/Necromancy_In_The_Vicinity/DIAL_Necromancy_In_The_Vicinity_Offer.asset
+  uploadId: 783764

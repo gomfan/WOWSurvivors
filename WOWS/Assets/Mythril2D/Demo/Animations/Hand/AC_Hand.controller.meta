@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7be197b81f98400469dc4da59d7030fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Animations/Hand/AC_Hand.controller
+  uploadId: 783764

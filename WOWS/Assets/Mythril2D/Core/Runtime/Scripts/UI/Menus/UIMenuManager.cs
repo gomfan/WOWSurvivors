@@ -1,0 +1,177 @@
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.UI;
+
+namespace Gyvr.Mythril2D
+{
+    public class UIMenuManager : MonoBehaviour
+    {
+        [Header("UI Menus")]
+        [SerializeField] private UIGameMenu m_gameMenu = null;
+        [SerializeField] private UIShop m_shop = null;
+        [SerializeField] private UICraft m_craft = null;
+        [SerializeField] private UICharacter m_stats = null;
+        [SerializeField] private UIInventory m_inventory = null;
+        [SerializeField] private UIJournal m_journal = null;
+        [SerializeField] private UIAbilities m_abilities = null;
+        [SerializeField] private UISettings m_settings = null;
+        [SerializeField] private UISave m_save = null;
+        [SerializeField] private UIDeath m_death = null;
+
+        private Stack<IUIMenu> m_menuStack = new();
+
+        // This is necessary to prevent the action that opens the menu from also closing it (OnCancel)
+        // This is a workaround to prevent the menu from closing immediately after opening
+        private float m_openedDuration = 0.0f;
+
+        private void Start()
+        {
+            GameManager.NotificationSystem.gameMenuRequested.AddListener(OnGameMenuRequested);
+            GameManager.NotificationSystem.shopRequested.AddListener(OnShopRequested);
+            GameManager.NotificationSystem.craftRequested.AddListener(OnCraftRequested);
+            GameManager.NotificationSystem.statsRequested.AddListener(OnStatsRequested);
+            GameManager.NotificationSystem.journalRequested.AddListener(OnJournalRequested);
+            GameManager.NotificationSystem.inventoryRequested.AddListener(OnInventoryRequested);
+            GameManager.NotificationSystem.spellBookRequested.AddListener(OnAbilitiesRequested);
+            GameManager.NotificationSystem.settingsRequested.AddListener(OnSettingsRequested);
+            GameManager.NotificationSystem.saveMenuRequested.AddListener(OnSaveMenuRequested);
+            GameManager.NotificationSystem.deathScreenRequested.AddListener(OnDeathScreenRequested);
+            GameManager.NotificationSystem.closeAllMenusRequested.AddListener(OnCloseAllMenusRequested);
+
+            m_gameMenu.Init();
+            m_shop.Init();
+            m_craft.Init();
+            m_stats.Init();
+            m_journal.Init();
+            m_inventory.Init();
+            m_abilities.Init();
+            m_settings.Init();
+            m_save.Init();
+            m_death.Init();
+
+            GameManager.InputSystem.ui.cancel.performed += OnCancel;
+        }
+
+        private void OnDestroy()
+        {
+            GameManager.InputSystem.ui.cancel.performed -= OnCancel;
+        }
+
+        private void Update()
+        {
+            m_openedDuration += Time.unscaledDeltaTime;
+        }
+
+        private void UpdateMenuNavigation(IUIMenu menu)
+        {
+            GameObject toSelect = menu.FindSomethingToSelect();
+
+            if (!toSelect)
+            {
+                MonoBehaviour menuMonoBehaviour = (MonoBehaviour)m_menuStack.Peek();
+                Selectable firstSelectable = menuMonoBehaviour.gameObject.GetComponentInChildren<Selectable>();
+
+                if (firstSelectable)
+                {
+                    toSelect = firstSelectable.gameObject;
+                }
+            }
+
+            GameManager.EventSystem.SetSelectedGameObject(toSelect);
+        }
+
+        private void OnCancel(InputAction.CallbackContext context)
+        {
+            // Prevent exiting a menu if a dialogue is playing
+            if (!GameManager.DialogueSystem.Main.IsPlaying() && m_openedDuration > 0.1f) // > 0.1f to prevent closing the menu immediately after opening (workaround)
+            {
+                if (m_menuStack.Count == 0 || !m_menuStack.Peek().OnCancel())
+                {
+                    PopMenu();
+                }
+            }
+        }
+
+        private void PushMenu(TaskCompletionSource<bool> menuClosedTask, IUIMenu menu, params object[] args)
+        {
+            if (m_menuStack.Count > 0 && m_menuStack.Peek() != null)
+            {
+                IUIMenu previousMenu = m_menuStack.Peek();
+                previousMenu.EnableInteractions(false);
+            }
+
+            m_menuStack.Push(menu);
+            menu.OnMenuPushed();
+            GameManager.GameStateSystem.AddLayer(EGameState.Menu);
+            Show(menuClosedTask, menu, args);
+        }
+
+        private bool PopMenu()
+        {
+            if (m_menuStack.Count > 0 && m_menuStack.Peek().CanPop())
+            {
+                IUIMenu menu = m_menuStack.Pop();
+                menu.OnMenuPopped();
+                Hide(menu);
+
+                if (m_menuStack.Count > 0)
+                {
+                    Show(null, m_menuStack.Peek());
+                }
+
+                return true;
+            }
+
+            return false;
+        }
+
+        private void Show(TaskCompletionSource<bool> menuClosedTask, IUIMenu menu, params object[] args)
+        {
+            m_openedDuration = 0.0f;
+
+            menu.Show(menuClosedTask, args);
+            menu.EnableInteractions(true);
+
+            GameManager.NotificationSystem.menuShowed.Invoke(menu);
+
+            // Because some menus may use layouts, they may need at least one frame to be setup properly.
+            // If we update menu navigation too early, the selection cursor feedback may move during the setup
+            StartCoroutine(CoroutineHelpers.ExecuteInXFrames(1, () => UpdateMenuNavigation(menu)));
+        }
+
+        private void Hide(IUIMenu menu)
+        {
+            GameManager.NotificationSystem.menuHid.Invoke(menu);
+            GameManager.NotificationSystem.itemDetailsClosed.Invoke();
+            GameManager.GameStateSystem.RemoveLayer(EGameState.Menu);
+            menu.Hide();
+        }
+
+        private void OnGameMenuRequested(TaskCompletionSource<bool> onMenuClosed) => PushMenu(onMenuClosed, m_gameMenu);
+
+        private void OnShopRequested(Shop shop, TaskCompletionSource<bool> onMenuClosed) => PushMenu(onMenuClosed, m_shop, shop);
+
+        private void OnCraftRequested(CraftingStation craftingStation, TaskCompletionSource<bool> onMenuClosed) => PushMenu(onMenuClosed, m_craft, craftingStation);
+
+        private void OnStatsRequested(TaskCompletionSource<bool> onMenuClosed) => PushMenu(onMenuClosed, m_stats);
+
+        private void OnJournalRequested(TaskCompletionSource<bool> onMenuClosed) => PushMenu(onMenuClosed, m_journal);
+
+        private void OnInventoryRequested(TaskCompletionSource<bool> onMenuClosed) => PushMenu(onMenuClosed, m_inventory);
+
+        private void OnAbilitiesRequested(TaskCompletionSource<bool> onMenuClosed) => PushMenu(onMenuClosed, m_abilities);
+
+        private void OnSettingsRequested(TaskCompletionSource<bool> onMenuClosed) => PushMenu(onMenuClosed, m_settings);
+
+        private void OnSaveMenuRequested(TaskCompletionSource<bool> onMenuClosed) => PushMenu(onMenuClosed, m_save);
+
+        private void OnDeathScreenRequested(TaskCompletionSource<bool> onMenuClosed) => PushMenu(onMenuClosed, m_death);
+
+        private void OnCloseAllMenusRequested()
+        {
+            while (PopMenu()) { }
+        }
+    }
+}

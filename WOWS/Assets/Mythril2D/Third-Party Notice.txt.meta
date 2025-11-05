@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bfa9ca773378975488fc355ddcaf57bf
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Third-Party Notice.txt
+  uploadId: 783764

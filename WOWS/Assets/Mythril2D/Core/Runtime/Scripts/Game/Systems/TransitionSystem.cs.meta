@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7ae040fe03eda72459bdd9ef1a98ddd2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Game/Systems/TransitionSystem.cs
+  uploadId: 783764

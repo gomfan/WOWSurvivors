@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d7179ad832a320f489d39342b17af152
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Loot/ChestLoot.cs
+  uploadId: 783764

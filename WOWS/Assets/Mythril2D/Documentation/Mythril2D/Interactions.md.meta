@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0235059dc935d6e46a1a5280c09eefcf
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Documentation/Mythril2D/Interactions.md
+  uploadId: 783764

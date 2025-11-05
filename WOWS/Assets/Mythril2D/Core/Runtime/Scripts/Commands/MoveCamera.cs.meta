@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 241e79b987d108844a2853dab6bf4db0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Commands/MoveCamera.cs
+  uploadId: 783764

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 39eb59e0a89cd1b499f31d0e454106e9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Entities/0_Entity_Base.prefab
+  uploadId: 783764

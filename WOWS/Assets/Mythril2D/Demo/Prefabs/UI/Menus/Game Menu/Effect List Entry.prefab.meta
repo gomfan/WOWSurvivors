@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 60c44cbda66e1d54898f6d738e3aeecd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Menus/Game Menu/Effect List Entry.prefab
+  uploadId: 783764

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 778eb033294416c4f8af5667ea6838b5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Entities/Signs/Sign_On_Path.prefab
+  uploadId: 783764

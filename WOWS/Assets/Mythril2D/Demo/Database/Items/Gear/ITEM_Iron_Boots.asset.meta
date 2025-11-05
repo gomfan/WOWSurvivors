@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e4eb488c6d289949bba2e98f46c2cc3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Items/Gear/ITEM_Iron_Boots.asset
+  uploadId: 783764

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1b0317c2692614cba26cf0cfc4fc62, type: 3}
+  m_Name: CRSTA_Default
+  m_EditorClassIdentifier: 
+  recipes:
+  - {fileID: 11400000, guid: f6f922f2a3bbf51478b4e86857350d59, type: 2}
+  - {fileID: 11400000, guid: 0976c5ed609277143853bc3bd33982c4, type: 2}
+  - {fileID: 11400000, guid: 5a61dfa624869b04e94b861156fc11dd, type: 2}
+  - {fileID: 11400000, guid: d10035f771b1df34ca2eac8c41200c33, type: 2}
+  priceMultiplier: 1
+  flatPrice: 0

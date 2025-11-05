@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8f586378b4e144a9851e7b34d9b748ee
+timeCreated: 1484171803
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/ThirdParty/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+    SDF.asset
+  uploadId: 783764

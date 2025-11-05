@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 3b668f13a7e38064abd2c06f9a0ff70c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/UI/UIMovementIndicator.cs
+  uploadId: 783764

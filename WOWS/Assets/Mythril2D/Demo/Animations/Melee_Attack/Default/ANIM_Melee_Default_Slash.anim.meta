@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8354d4a6d7601aa48a1c25248fa5ac1a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Animations/Melee_Attack/Default/ANIM_Melee_Default_Slash.anim
+  uploadId: 783764

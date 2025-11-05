@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52ad798bc7dde924387a0f08a7844868, type: 3}
+  m_Name: AB_Spore
+  m_EditorClassIdentifier: 
+  m_icon: {fileID: -532101946, guid: 75f26bff82aa90b4e8ac81457a1224bf, type: 3}
+  m_displayName: Fireball
+  m_description: Cast a powerful fireball
+  m_prefab: {fileID: 7808537531911090434, guid: 137152ad9dae47047ae77d1d9577993b, type: 3}
+  m_orientationMode: 1
+  m_abilityStateManagementMode: 0
+  m_effects:
+  - rid: 837939137712750816
+  - rid: 837939338526326863
+  m_fireAudio: {fileID: 11400000, guid: 5cb3db60a8e82af43a07be4f6044e2ad, type: 2}
+  m_manaCost: 0
+  m_cooldown: 1
+  m_canInterupt: 1
+  m_disabledActionsWhileCasting: -1
+  m_updateLookAtDirectionOnFire: 1
+  m_autoAppliedEffectsToCasterOnFire: []
+  m_projectile: {fileID: 5070341128309306153, guid: 7c2ae824286e2af4ea638c8d9c5a18e6, type: 3}
+  m_projectileSpeed: 5
+  m_projectileCount: 1
+  m_spread: 0
+  m_explosionRadius: 0.6
+  m_explosionApplyBaseEffects: 1
+  m_explosionBaseEffectsIgnorePrimaryTarget: 1
+  m_explosionAdditionalEffectsIgnorePrimaryTarget: 0
+  m_explosionAdditionalEffects: []
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 837939137712750816
+      type: {class: ImmediateDamageEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 4
+          interruptionPolicy: 0
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_damageDescriptor:
+          damageType: 2
+          scalingFactor: 0.5
+          flatDamages: 0
+          criticalBehavior: 0
+          missBehavior: 0
+          ignoreDefense: 0
+          silent: 0
+    - rid: 837939338526326863
+      type: {class: TemporalDamageEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 4
+          interruptionPolicy: 0
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: spore_poison
+          stackBehavior: 1
+          remainingDuration: 0
+        m_damageData:
+          damage:
+            damageType: 2
+            scalingFactor: 0.5
+            flatDamages: 0
+            criticalBehavior: 2
+            missBehavior: 2
+            ignoreDefense: 0
+            silent: 1
+          interval: 2
+          delayFirstTick: 0
+          timer: 0
+          damageOutput:
+            source:
+              rid: -2
+            type: 0
+            damage: 0
+            flags: 0
+            missBehavior: 0
+            ignoreDefense: 0
+            silent: 0

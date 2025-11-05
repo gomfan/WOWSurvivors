@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f59d5cd53082c6246896a10f3ab1dc62
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Combat/Effects/Temporal/TemporalRestoreManaEffect.cs
+  uploadId: 783764

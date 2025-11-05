@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: fbdcb85b32936254b84d60a64c02e227
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Conditional/StateMachines/ConditionalSelfActivator.cs
+  uploadId: 783764

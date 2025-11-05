@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a1712da73256c64eafbce71a350273f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Quests/In_A_Pickle/DIAL_In_A_Pickle_Hint_Kill_Bandits.asset
+  uploadId: 783764

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c73f1c9cd8958dc44969ce40c1398d44
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Entities/Characters/Heroes/Knight.prefab
+  uploadId: 783764

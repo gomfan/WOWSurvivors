@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 175a842628efc3d448e405112f74658b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Combat/Effects/AEffect.cs
+  uploadId: 783764

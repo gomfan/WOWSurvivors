@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 074ce5159414c354785d39946d684bed
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Database/Abilities/Passive/PassiveAbilitySheet.cs
+  uploadId: 783764

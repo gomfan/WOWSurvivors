@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab4a88b1674feb745b2854848369b955
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Audio/ISFX/AUDIO_ISFX_Quest_Completed.asset
+  uploadId: 783764

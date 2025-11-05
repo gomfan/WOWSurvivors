@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 012aea73f80d5d74fb6fb293c507e391
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Tiles/Interior/greenCarpet.asset
+  uploadId: 783764

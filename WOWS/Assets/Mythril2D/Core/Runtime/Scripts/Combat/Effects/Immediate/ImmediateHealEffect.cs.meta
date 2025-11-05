@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b5da730b1ab08b54f94a52a00297a616
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Combat/Effects/Immediate/ImmediateHealEffect.cs
+  uploadId: 783764

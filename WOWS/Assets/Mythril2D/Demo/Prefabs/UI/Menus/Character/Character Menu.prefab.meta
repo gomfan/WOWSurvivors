@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abacf31369d924960a6946babcfeb863
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Menus/Character/Character Menu.prefab
+  uploadId: 783764

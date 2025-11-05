@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c6d4afde641f20444a86b0f711a97b57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/ThirdParty/azixMcAze.SerializableDictionary/Runtime/Scripts/SerializableDictionary.cs
+  uploadId: 783764

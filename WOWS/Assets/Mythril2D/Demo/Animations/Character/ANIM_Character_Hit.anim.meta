@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 621fd33d178cf584c9475c0701ec6de0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Animations/Character/ANIM_Character_Hit.anim
+  uploadId: 783764

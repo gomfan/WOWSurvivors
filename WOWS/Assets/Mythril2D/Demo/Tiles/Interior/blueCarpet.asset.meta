@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f812818dcd64b5643b5480ac59f99b7f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Tiles/Interior/blueCarpet.asset
+  uploadId: 783764

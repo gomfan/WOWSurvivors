@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 9b913f8ff89a44e4ca58061d1c56d0bd
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Database/Items/ItemEffects/ItemCleanseEffect.cs
+  uploadId: 783764

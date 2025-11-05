@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4bb8a8243c5eb1942a0c4c294d00719b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Documentation/Mythril2D/Monsters.md
+  uploadId: 783764

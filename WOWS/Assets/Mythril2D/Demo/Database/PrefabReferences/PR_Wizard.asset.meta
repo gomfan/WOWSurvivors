@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a9236e8d6ed5dd44a8e7345b204ea0f4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/PrefabReferences/PR_Wizard.asset
+  uploadId: 783764

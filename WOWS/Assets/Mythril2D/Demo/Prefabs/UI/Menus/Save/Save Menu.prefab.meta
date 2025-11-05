@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: edaf4ee03542d475596d0854ce85d182
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Menus/Save/Save Menu.prefab
+  uploadId: 783764

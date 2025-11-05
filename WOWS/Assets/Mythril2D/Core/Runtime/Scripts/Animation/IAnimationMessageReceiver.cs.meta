@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 3d4c06b06822d6548827151300194fe7
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Animation/IAnimationMessageReceiver.cs
+  uploadId: 783764

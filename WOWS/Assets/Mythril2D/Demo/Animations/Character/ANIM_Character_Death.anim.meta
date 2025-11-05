@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebba60a028479144d820b1824942b16e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Animations/Character/ANIM_Character_Death.anim
+  uploadId: 783764

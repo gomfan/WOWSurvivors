@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e395a890f1cb34f489f7a79140c05c9a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Tiles/Exterior/plainDecorations_66.asset
+  uploadId: 783764

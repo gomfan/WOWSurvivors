@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 74a36a07e9347cc41a10c8b8a0f1a148
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Conditional/StateMachines/ConditionalReferencesActivator.cs
+  uploadId: 783764

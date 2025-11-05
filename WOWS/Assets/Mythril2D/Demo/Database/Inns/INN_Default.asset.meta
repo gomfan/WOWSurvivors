@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c143e362ba7451b4d99d17eb0af39134
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Inns/INN_Default.asset
+  uploadId: 783764

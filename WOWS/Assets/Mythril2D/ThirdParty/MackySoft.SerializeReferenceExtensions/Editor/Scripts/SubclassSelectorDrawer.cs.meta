@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 976888d4f5359f94d8c5417f313acf29
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/ThirdParty/MackySoft.SerializeReferenceExtensions/Editor/Scripts/SubclassSelectorDrawer.cs
+  uploadId: 783764

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09e17463e893d4fc49015a09b61e97ad, type: 3}
+  m_Name: DIAL_Tax_Season_Yosbar_3_Final
+  m_EditorClassIdentifier: 
+  lines:
+  - Pff... Fine, here is your money, you guys are such evil creatures, stealing money
+    from honest workers.
+  options: []
+  toExecuteOnStart:
+    rid: -2
+  toExecuteOnCompletion:
+    rid: 2152590067567689773
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 2152590067567689773
+      type: {class: ExecuteCommandList, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_commands:
+        - rid: 2152590067567689778
+        - rid: 2152590067567689779
+    - rid: 2152590067567689778
+      type: {class: AddOrRemoveItem, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_action: 0
+        m_item: {fileID: 11400000, guid: b9aff18cf205896438a59e1ab7d29ff8, type: 2}
+        m_quantity: 1
+    - rid: 2152590067567689779
+      type: {class: SetGameFlag, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_flagID: blacksmith_tax_collected
+        m_state: 1

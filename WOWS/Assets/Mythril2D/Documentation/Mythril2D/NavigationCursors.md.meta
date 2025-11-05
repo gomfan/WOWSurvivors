@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1c371f4a2de81045a7ec6b56689b957
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Documentation/Mythril2D/NavigationCursors.md
+  uploadId: 783764

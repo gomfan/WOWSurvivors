@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b2dce08b6b23504894fcf47b5301d10, type: 3}
+  m_Name: AB_Benediction
+  m_EditorClassIdentifier: 
+  m_icon: {fileID: 1016728511, guid: 75f26bff82aa90b4e8ac81457a1224bf, type: 3}
+  m_displayName: Benediction
+  m_description: The gods favor you and share a portion of their power every second,
+    restoring your mana.
+  m_prefab: {fileID: 5434529868547144446, guid: 4a83e1329baf9824ab339d245ef4d2b7, type: 3}
+  m_orientationMode: 0
+  m_abilityStateManagementMode: 1
+  m_effects:
+  - rid: 837939269359108257
+  m_delayBetweenTicks: 10
+  references:
+    version: 2
+    RefIds:
+    - rid: 837939269359108257
+      type: {class: ImmediateRestoreManaEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_manaToRestore: 1

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a5f65025d50c4d069d8814d90ee5c21
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Animations/UI/Dialogue/Dialogue_Message_Box/AC_Dialogue_Message_Box.controller
+  uploadId: 783764

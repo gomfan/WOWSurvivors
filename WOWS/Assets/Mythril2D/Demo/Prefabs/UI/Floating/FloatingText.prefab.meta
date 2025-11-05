@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7f4c08c04b6234ffc86391e45a11d94d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Floating/FloatingText.prefab
+  uploadId: 783764

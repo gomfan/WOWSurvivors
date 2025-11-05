@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c65e960fc7b49c04da0fc0bd3c12cb5e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Entities/Projectiles/Fireball.prefab
+  uploadId: 783764

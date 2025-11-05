@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ead7b31a0922b234fbf5736da4739d5c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Items/Resource/ITEM_Water_Slime_Ball.asset
+  uploadId: 783764

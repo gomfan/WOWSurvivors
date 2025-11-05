@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 330c2d75e374945c9aa7d09eda197326
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Scenes/Maps/King_Fred_House.unity
+  uploadId: 783764

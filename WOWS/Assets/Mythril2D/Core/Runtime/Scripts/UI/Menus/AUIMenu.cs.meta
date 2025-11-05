@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c30b4d8eb5711a54aa1c38c11cbdb9e5
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/UI/Menus/AUIMenu.cs
+  uploadId: 783764

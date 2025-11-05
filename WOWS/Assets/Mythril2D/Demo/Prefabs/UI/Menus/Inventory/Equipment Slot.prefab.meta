@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c1da12900f21a8a449218aa4fabc0a93
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Menus/Inventory/Equipment Slot.prefab
+  uploadId: 783764

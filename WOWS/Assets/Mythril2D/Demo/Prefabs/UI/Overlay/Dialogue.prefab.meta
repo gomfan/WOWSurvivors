@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb754aff074d74de0ba1adefd9ac2091
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Overlay/Dialogue.prefab
+  uploadId: 783764

@@ -1,0 +1,620 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8fc41fe2b3eeb84e8fdc2c088b356b2, type: 3}
+  m_Name: AB_Gloubi_boulga
+  m_EditorClassIdentifier: 
+  m_icon: {fileID: -654719578, guid: c94cf32db75ba2e429c4186822410ca0, type: 3}
+  m_displayName: Gloubi-boulga
+  m_description: A very useful ability to apply every possible temporal effect to
+    its caster
+  m_prefab: {fileID: 5637492867466869810, guid: da6d7810d900aad439350f0bdbfe42a8, type: 3}
+  m_orientationMode: 1
+  m_abilityStateManagementMode: 0
+  m_effects:
+  - rid: 837939378545492152
+  - rid: 837939378545492153
+  - rid: 837939378545492154
+  - rid: 837939378545492155
+  - rid: 837939378545492156
+  - rid: 837939378545492157
+  - rid: 837939378545492158
+  - rid: 837939378545492175
+  - rid: 837939378545492159
+  - rid: 837939378545492160
+  - rid: 837939378545492161
+  - rid: 837939378545492162
+  - rid: 837939378545492163
+  - rid: 837939378545492164
+  - rid: 837939378545492165
+  - rid: 837939378545492166
+  - rid: 837939378545492177
+  - rid: 837939378545492178
+  - rid: 837939378545492179
+  - rid: 837939378545492180
+  - rid: 837939378545492181
+  - rid: 837939378545492182
+  - rid: 837939378545492183
+  - rid: 837939378545492184
+  m_fireAudio: {fileID: 11400000, guid: 904b149e8a302c348bbb470e1c37a744, type: 2}
+  m_manaCost: 0
+  m_cooldown: 0
+  m_canInterupt: 0
+  m_disabledActionsWhileCasting: -1
+  m_updateLookAtDirectionOnFire: 1
+  m_autoAppliedEffectsToCasterOnFire: []
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 837939378545492152
+      type: {class: TemporalControlEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_controlData:
+          controlType: 0
+          unlockKey: 
+    - rid: 837939378545492153
+      type: {class: TemporalControlEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_controlData:
+          controlType: 1
+          unlockKey: 
+    - rid: 837939378545492154
+      type: {class: TemporalControlEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_controlData:
+          controlType: 2
+          unlockKey: 
+    - rid: 837939378545492155
+      type: {class: TemporalDamageEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_damageData:
+          damage:
+            damageType: 0
+            scalingFactor: 0.5
+            flatDamages: 1
+            criticalBehavior: 2
+            missBehavior: 2
+            ignoreDefense: 0
+            silent: 1
+          interval: 2
+          delayFirstTick: 1
+          timer: 0
+          damageOutput:
+            source:
+              rid: -2
+            type: 0
+            damage: 0
+            flags: 0
+            missBehavior: 0
+            ignoreDefense: 0
+            silent: 0
+    - rid: 837939378545492156
+      type: {class: TemporalHealEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_healData:
+          amount: 1
+          interval: 1
+          delayFirstTick: 0
+          timer: 0
+    - rid: 837939378545492157
+      type: {class: TemporalRestoreManaEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_restoreManaData:
+          amount: 1
+          interval: 1
+          delayFirstTick: 0
+          timer: 0
+    - rid: 837939378545492158
+      type: {class: TemporalSpeedModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_speedModifierData:
+          factor: 2
+          customCurve:
+            serializedVersion: 2
+            m_Curve: []
+            m_PreInfinity: 2
+            m_PostInfinity: 2
+            m_RotationOrder: 4
+          key: 
+    - rid: 837939378545492159
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: 1
+          stat: 0
+    - rid: 837939378545492160
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: 1
+          stat: 1
+    - rid: 837939378545492161
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: 1
+          stat: 2
+    - rid: 837939378545492162
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: 1
+          stat: 3
+    - rid: 837939378545492163
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: 1
+          stat: 4
+    - rid: 837939378545492164
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: 1
+          stat: 5
+    - rid: 837939378545492165
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: 1
+          stat: 6
+    - rid: 837939378545492166
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: 1
+          stat: 7
+    - rid: 837939378545492175
+      type: {class: TemporalSpeedModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_speedModifierData:
+          factor: 0.8
+          customCurve:
+            serializedVersion: 2
+            m_Curve: []
+            m_PreInfinity: 2
+            m_PostInfinity: 2
+            m_RotationOrder: 4
+          key: 
+    - rid: 837939378545492177
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: -1
+          stat: 0
+    - rid: 837939378545492178
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: -1
+          stat: 1
+    - rid: 837939378545492179
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: -1
+          stat: 2
+    - rid: 837939378545492180
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: -1
+          stat: 3
+    - rid: 837939378545492181
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: -1
+          stat: 4
+    - rid: 837939378545492182
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: -1
+          stat: 5
+    - rid: 837939378545492183
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: -1
+          stat: 6
+    - rid: 837939378545492184
+      type: {class: TemporalStatModifierEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 1
+          interruptionPolicy: 2
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 5
+          stackableEffectId: 
+          stackBehavior: 0
+          remainingDuration: 0
+        m_statBoostData:
+          amount: -1
+          stat: 7

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f998ea6b493692947bf87546a97a1f0a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Documentation/Mythril2D/Stats.md
+  uploadId: 783764

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 814829904a4ff47edb9309830cad5b56
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Database/Dialogues/Chest/DIAL_Chest_Full.asset
+  uploadId: 783764

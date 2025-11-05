@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8fc41fe2b3eeb84e8fdc2c088b356b2, type: 3}
+  m_Name: AB_Baton_Stroke
+  m_EditorClassIdentifier: 
+  m_icon: {fileID: -428931625, guid: 75f26bff82aa90b4e8ac81457a1224bf, type: 3}
+  m_displayName: Baton Stroke
+  m_description: A simple yet effective attack with a staff
+  m_prefab: {fileID: 7884856398598054234, guid: 5d4b52437ff2c4b409c1a29b2427fb67, type: 3}
+  m_orientationMode: 1
+  m_abilityStateManagementMode: 0
+  m_effects:
+  - rid: 837939137712750830
+  - rid: 837939358424891656
+  m_fireAudio: {fileID: 11400000, guid: a44523d9c88f4ab4e81de3e5aa4f16fa, type: 2}
+  m_manaCost: 0
+  m_cooldown: 1
+  m_canInterupt: 0
+  m_disabledActionsWhileCasting: -1
+  m_updateLookAtDirectionOnFire: 1
+  m_autoAppliedEffectsToCasterOnFire: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 837939137712750830
+      type: {class: ImmediateDamageEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 4
+          interruptionPolicy: 0
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_damageDescriptor:
+          damageType: 1
+          scalingFactor: 0.5
+          flatDamages: 0
+          criticalBehavior: 0
+          missBehavior: 0
+          ignoreDefense: 0
+          silent: 0
+    - rid: 837939358424891656
+      type: {class: TemporalControlEffect, ns: Gyvr.Mythril2D, asm: Gyvr.Mythril2D}
+      data:
+        m_effectData:
+          targetFlags: 4
+          interruptionPolicy: 0
+          visualFlags: 0
+          failureRate: 0
+          initialized: 0
+          source:
+            m_identifier: 
+          target:
+            m_identifier: 
+          velocity: {x: 0, y: 0}
+        m_temporalData:
+          duration: 0.5
+          stackableEffectId: baton_stroke_stun
+          stackBehavior: 0
+          remainingDuration: 0
+        m_controlData:
+          controlType: 0
+          unlockKey: 

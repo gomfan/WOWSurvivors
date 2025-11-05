@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50f46b7cb63a866479185007d2e50dd8
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Documentation/Mythril2D/GameManager.md
+  uploadId: 783764

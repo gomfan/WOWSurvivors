@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8610234AE3DB4A93986F4A91A245EEB1
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/CHANGELOG.md
+  uploadId: 783764

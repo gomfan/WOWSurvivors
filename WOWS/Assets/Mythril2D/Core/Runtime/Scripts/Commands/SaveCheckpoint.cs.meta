@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: bd20f54579e4da44ea881980e85689ac
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Core/Runtime/Scripts/Commands/SaveCheckpoint.cs
+  uploadId: 783764

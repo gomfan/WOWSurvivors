@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce3585146ff1f9b4eb8b85c83e9b9180
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Entities/Projectiles/0_Projectile_Base.prefab
+  uploadId: 783764

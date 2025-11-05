@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 14eb328de4b8eb245bb7cea29e4ac00b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/ThirdParty/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+  uploadId: 783764

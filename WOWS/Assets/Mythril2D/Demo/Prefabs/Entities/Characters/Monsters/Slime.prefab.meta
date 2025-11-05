@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e94c8d9cf7a6c4542b0e7f5ea1b9db18
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Entities/Characters/Monsters/Slime.prefab
+  uploadId: 783764

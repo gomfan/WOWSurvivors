@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 663fa09793b39574f86b648c66e59758
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Documentation/Mythril2D/Checkpoints.md
+  uploadId: 783764

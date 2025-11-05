@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e059031f6b33e7641a2eaf6ef6b5666b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Menus/Craft/Ingredient Entry.prefab
+  uploadId: 783764

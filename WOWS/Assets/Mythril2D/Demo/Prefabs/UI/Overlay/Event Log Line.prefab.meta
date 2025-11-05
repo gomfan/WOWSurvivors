@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7fca9490aadffa74ca0f05cca535b9e8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Overlay/Event Log Line.prefab
+  uploadId: 783764

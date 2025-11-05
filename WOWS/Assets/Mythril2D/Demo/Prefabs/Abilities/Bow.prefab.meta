@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17c8dfd7408d5ad4f9755371ded29e70
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/Abilities/Bow.prefab
+  uploadId: 783764

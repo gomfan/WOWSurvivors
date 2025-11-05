@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 250c8ca41c6fece4ba31d4e341c6e840
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Audio/ThirdParty/pmiller/LICENSE.md
+  uploadId: 783764

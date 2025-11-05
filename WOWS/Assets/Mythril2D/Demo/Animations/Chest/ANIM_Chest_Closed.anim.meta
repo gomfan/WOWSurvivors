@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ca2cb27300158342a58f739a1c248ed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Animations/Chest/ANIM_Chest_Closed.anim
+  uploadId: 783764

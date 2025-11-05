@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ee5f729d6a68fa48b360e7b44c295f7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Prefabs/UI/Menus/Craft/Craft Menu.prefab
+  uploadId: 783764

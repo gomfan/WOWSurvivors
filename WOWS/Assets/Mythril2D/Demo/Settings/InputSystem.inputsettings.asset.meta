@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58b46bb59f19fa6489d514aa4d7bec82
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249375
+  packageName: '2D Action RPG Engine: Mythril2D'
+  packageVersion: 3.3
+  assetPath: Assets/Mythril2D/Demo/Settings/InputSystem.inputsettings.asset
+  uploadId: 783764
